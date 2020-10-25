@@ -1,0 +1,1 @@
+# techyminati.github.io
