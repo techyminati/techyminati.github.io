@@ -1,9 +1,9 @@
 # TechyMinati | Home
-<h2> Just A Fork Of [Hyper's Webpage](https://github.com/hyperterminal-byte/hyperterminal-byte.github.io) & Adapted for my Usage ! </h2>
+<h2> Just A Fork Of Hyper's Webpage & Adapted for my Usage ! </h2>
+[Hyper's Webpage](https://github.com/hyperterminal-byte/hyperterminal-byte.github.io) 
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align='right' src='https://avatars.githubusercontent.com/u/63485082?s=400&u=5486aa2206a95e0b0bdbb664645770739e04de40&v=4' width='200"'>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=techyminati&&show_icons=true&&theme=tokyonight" />
-<img src="https://avatars.githubusercontent.com/u/63485082?s=400&u=5486aa2206a95e0b0bdbb664645770739e04de40&v=4" width="150px" height="150px" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techyminati&style=flat-square" alt="techyminati" /> </p>
 <br/>
 
